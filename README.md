@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">🔗 Connect with me</p>
+<h4 align="left">🔗 Connect with me</h4>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/daffa-habibullah-5a4583262/" target="_blank">
@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-<p align="left">🛠️ Tech Stack</p>
+<h4 align="left">🛠️ Tech Stack</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<p align="left">⚡ Github Stats</p>
+<h4 align="left">⚡ Github Stats</h4>
 
 ![DaffaHabibullah's Stats](https://github-readme-stats.vercel.app/api?username=DaffaHabibullah&theme=algolia&show_icons=true&hide_border=false&count_private=true)
 ![DaffaHabibullah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaHabibullah&theme=algolia&show_icons=true&hide_border=false&layout=compact)

@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-<h4 align="left">🛠️ Tech Stack</h4>
+<h4 align="left">🛠️ Tech Stacks</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />

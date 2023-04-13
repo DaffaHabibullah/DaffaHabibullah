@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<h4 align="left">⚡ Github Stats</h4>
+<h4 align="left">⚡ GitHub Stats</h4>
 
 ![DaffaHabibullah's Stats](https://github-readme-stats.vercel.app/api?username=DaffaHabibullah&theme=algolia&show_icons=true&hide_border=false&count_private=true)
 ![DaffaHabibullah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaHabibullah&theme=algolia&show_icons=true&hide_border=false&layout=compact)

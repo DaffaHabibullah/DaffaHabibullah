@@ -4,7 +4,7 @@
 
 <h3>About me: </h3>
 
-- 👨‍💻 I'm **Software Engineer and Web Developer**
+- 👨‍💻 I'm a **Software Engineer and Web Developer**
 - 🌱 I’m currently learning **Front-End Development and Web Development**
 - ⚡ Fun fact **I'm Sanguine and Choleric**
 - 📄 Know about my experience <a href="https://drive.google.com/file/d/1-ANLCPYI5_sRmZ7u9NSBE3k7Y5WupoFy/view" target="_blank">Resume</a>

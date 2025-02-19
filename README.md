@@ -41,5 +41,5 @@
 </p>
 
 <h3 align="left">⚡ GitHub Stats: </h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=DaffaHabibullah&show_icons=true&theme=github_dark&locale=en" alt="DaffaHabibullah" />
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaHabibullah&layout=compact&show_icons=true&theme=github_dark&locale=en" alt=DaffaHabibullah />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=DaffaHabibullah&show_icons=true&theme=algolia&locale=en" alt="DaffaHabibullah" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaHabibullah&layout=compact&show_icons=true&theme=algolia&locale=en" alt=DaffaHabibullah />

@@ -6,8 +6,8 @@
 
 - 👨‍💻 I'm a **Software Engineer**
 - 🌱 I’m currently learning **Web Development**
-- ⚡ Fun fact **I'm Sanguine** and **Choleric**
 - 📄 Know about my experience <a href="https://drive.google.com/file/d/1cvDZi6HJ0Fo8gjARJl9kpvCXv_xCAxQZ/view" target="_blank">Resume</a>
+<!-- - ⚡ Fun fact **I'm Sanguine** and **Choleric** -->
 
 <h3 align="left">📫 Reach me: </h3>
 <p align="left">

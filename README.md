@@ -25,7 +25,6 @@
   <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40" /></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" /></a>
-  <a href="https://react-bootstrap.netlify.app/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="React Bootstrap" width="40" height="40" /></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" width="40" height="40" /></a>
   <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="Nest.js" width="40" height="40" /></a>
@@ -42,5 +41,5 @@
 </p>
 
 <h3 align="left">⚡ GitHub Stats: </h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=DaffaHabibullah&show_icons=true&locale=en&theme=algolia" alt="DaffaHabibullah" />
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaHabibullah&layout=compact&theme=algolia" alt=DaffaHabibullah /></p>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=DaffaHabibullah&show_icons=true&theme=github_dark&locale=en" alt="DaffaHabibullah" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaHabibullah&layout=compact&show_icons=true&theme=github_dark&locale=en" alt=DaffaHabibullah />
